@@ -8,3 +8,9 @@ Cada archivo corresponde a una variante desclasificada.
 ---
 🛰️ Dirección Operativa  
 #EjeDelta #ED0317
+---
+
+## 📂 Archivo operativo
+
+- [ARC001 – Informe clasificado](./ARC001)
+- [📥 Descargar ARC001 (PDF)](./20250822_ED0317_ARC001.pdf)
